@@ -1,0 +1,24 @@
+.search {
+  margin-top: -26px;
+}
+.saerch-contanier{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search-input{
+  width: 50%;
+  padding: 15px;
+  border-radius: 10px;
+  border: none;
+  font-size: 16px;
+
+}
+
+.saerch-contanier button{
+  margin-left: -70px;
+  background-color: white;
+}
+.saerch-contanier button:hover{
+  background-color: white;
+}
